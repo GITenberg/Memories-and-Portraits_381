@@ -1,0 +1,37 @@
+_repo: Memories-and-Portraits_381
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+description: "Memories and Portraits is a collection of essays by Robert Louis Stevenson,\
+  \ first published in 1887.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1995-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '381'
+  wikidata: Q6815614
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stevenson, Robert Louis, 1850-1894'
+- !lcc 'PR'
+- !lcsh 'Scotland -- Social life and customs -- 19th century'
+- !lcsh 'Authors, Scottish -- 19th century -- Biography'
+- GITenberg
+tableOfContents: 'The foreigner at home -- Some college memories -- Old mortality
+  -- A college magazine -- An old Scotch gardener -- Pastoral -- The manse -- Memoirs
+  of an islet -- Thomas Stevenson -- Talk and talkers: first paper -- Talk and talkers:
+  second paper -- The character of dogs -- "A penny plain and twopence coloured" --
+  A gossip on a novel of Dumas''s -- A gossip on romance -- A humble remonstrance.'
+title: Memories and Portraits
+url: http://www.gutenberg.org/ebooks/381
+wikipedia:
+- https://en.wikipedia.org/wiki/Memories_and_Portraits
