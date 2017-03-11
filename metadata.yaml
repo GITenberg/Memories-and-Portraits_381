@@ -1,5 +1,8 @@
 _repo: Memories-and-Portraits_381
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stevenson, Robert Louis
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
 description: "Memories and Portraits is a collection of essays by Robert Louis Stevenson,\
   \ first published in 1887.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/381#Memories-and-Portraits
 gutenberg_issued: '1995-12-01'
 gutenberg_type: Text
 identifiers:
